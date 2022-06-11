@@ -1,0 +1,14 @@
+setup.py
+orsay_spider/__init__.py
+orsay_spider/items.py
+orsay_spider/middlewares.py
+orsay_spider/pipelines.py
+orsay_spider/settings.py
+orsay_spider/spiders/__init__.py
+orsay_spider/spiders/orsay_crawl_spider.py
+orsay_spider/spiders/snkrs_crawl_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
